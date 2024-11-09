@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         "requests",
-        "pandas>=1.1.0",
-        "numpy==1.21.0"
+        "pandas",
+        "numpy"
     ],
 )
